@@ -1,5 +1,19 @@
 ## Predicting Positions and Numerical Integration-AL-Powered Temporal Analysis 
 
+<p align="center">
+  <img alt="Repository Achievement" src="https://img.shields.io/badge/Repository%20Achievement-Research%20Simulation%20Ready-0A7EA4?style=for-the-badge&logo=github" />
+</p>
+
+The project modele is inspired by FAIR research practices and focuses on **feasibility, accessibility, interoperability, and reproducibility** rather than claiming a platform-issued GitHub achievement.
+
+<p align="center">
+  <a href="#feasible"><img alt="Feasible" src="https://img.shields.io/badge/Feasible-research%20prototype-2E7D32?style=flat-square" /></a>
+  <a href="#accessible"><img alt="Accessible" src="https://img.shields.io/badge/Accessible-documented-1565C0?style=flat-square" /></a>
+  <a href="#interoperable"><img alt="Interoperable" src="https://img.shields.io/badge/Interoperable-Python%20workflow-6A1B9A?style=flat-square" /></a>
+  <a href="#reproducible"><img alt="Reproducible" src="https://img.shields.io/badge/Reproducible-versioned%20workflow-E65100?style=flat-square" /></a>
+</p>
+
+
 [![GitHub Actions](https://github.com/yourusername/Predicting-Positions-and-Numerical-Integration-AL-Powered-Temporal-Analysis/actions/workflows/build.yml/badge.svg)](https://github.com/Nkdarmel/Predicting-Positions-and-Numerical-Integration-AL-Powered-Temporal-Analysis/actions)
 
 
