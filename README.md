@@ -166,3 +166,38 @@ def numerical_integration(t0, tf, dt):
 2. Push the code, README.md file, and other resources to the repository.
 3. Add any additional images or documentation as needed.
 
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-brightgreen)](https://github.com/Nkdarmel/Predicting-Positions-and-Numerical-Integration-AL-Powered-Temporal-Analysis-)
+
+## Installation
+
+To run this project locally:
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/Nkdarmel/Predicting-Positions-and-Numerical-Integration-AL-Powered-Temporal-Analysis-.git
+   ```
+
+2. Install required packages using pip:
+   ```bash
+   pip install numpy scipy matplotlib
+   ```
+
+## Usage
+
+1. Open the `predict_positions.py` file.
+2. Modify parameters such as satellite orbit characteristics (`e`, `a`, `i`, `Omega`) and gravitational constants (`G`, `M_earth`, `M_sun`, `R_earth`, `M_sat`) according to your requirements.
+3. Run the script:
+   ```bash
+   python predict_positions.py
+   ```
+
+4. The predicted satellite positions will be displayed in a plot.
+
+## Contributing
+
+Contributions are welcome! Feel free to submit issues or pull requests for improvements and new features.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+```
