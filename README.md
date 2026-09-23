@@ -1,8 +1,6 @@
-# Predicting-Positions-and-Numerical-Integration-AL-Powered-Temporal-Analysis-
-
 Predicting Positions and Numerical Integration-AL-Powered Temporal Analysis 
 
-[![GitHub Actions](https://github.com/yourusername/Predicting-Positions-and-Numerical-Integration-AL-Powered-Temporal-Analysis/actions/workflows/build.yml/badge.svg)](https://github.com/yourusername/Predicting-Positions-and-Numerical-Integration-AL-Powered-Temporal-Analysis/actions)
+[![GitHub Actions](https://github.com/yourusername/Predicting-Positions-and-Numerical-Integration-AL-Powered-Temporal-Analysis/actions/workflows/build.yml/badge.svg)](https://github.com/Nkdarmel/Predicting-Positions-and-Numerical-Integration-AL-Powered-Temporal-Analysis/actions)
 
 
 ### Step 1: Create a GitHub Repository
